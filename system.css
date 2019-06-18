@@ -5,7 +5,6 @@ html,body {
 .aLogo{
     height: 48px;
     float: left;
-    background: url("images/h_logo.png")/*tpa=http://www.55cc.tv/Tpl/default/images/h_logo.png*/ center left no-repeat;
     overflow: hidden;
     width: 160px;
 }
@@ -997,7 +996,6 @@ dl.ff-raty dd #ff-raty-tips{
 .ff-logo{
     width: 170px;
     height: 40px;
-    background: url("images/logo.png")/*tpa=http://www.55cc.tv/Tpl/default/images/logo.png*/ 0 0 no-repeat;
 	display:block;
 	margin-right:0;
 	margin-top:-2px;
@@ -1011,7 +1009,6 @@ dl.ff-raty dd #ff-raty-tips{
 .index-logo {width: 30%;float: left;}.ff-logo{
     width: 170px;
     height: 40px;
-    background: url("images/logo.png")/*tpa=http://www.55cc.tv/Tpl/default/images/logo.png*/ 0 0 no-repeat;
 	display:block;
 	margin-right:40px;
 	margin-top:-2px;
@@ -1041,7 +1038,7 @@ dl.ff-raty dd #ff-raty-tips{
     top: 11px;
     width: 16px;
     height: 16px;
-    background: url("../../../css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ -133px -189px no-repeat;
+    background: url("https://css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ -133px -189px no-repeat;
 }
 .search .ff-search .search-9 {
     float: left;
@@ -1081,7 +1078,7 @@ dl.ff-raty dd #ff-raty-tips{
 	padding: 0;
     font-size: 13px;
     font-family: "\5FAE\8F6F\96C5\9ED1";
-    background: url("../../../css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ 0 -315px #2fb3ff no-repeat;
+    background: url("https://css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ 0 -315px #2fb3ff no-repeat;
     outline: 0;
     cursor: pointer;
 	border-radius: 0px;}
@@ -1112,7 +1109,7 @@ display: inline-block;
     top: 6px;
     width: 16px;
     height: 16px;
-    background: url("../../../css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ -133px -189px no-repeat;
+    background: url("https://css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ -133px -189px no-repeat;
 }
 .Header_search .ff-search .search-9 {
     float: left;
@@ -1153,7 +1150,7 @@ float: left;
     padding: 0;
     font-size: 12px;
     font-family: "\5FAE\8F6F\96C5\9ED1";
-    background: url("../../../css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ 0 -315px #2fb3ff no-repeat;
+    background: url("https://css.ykimg.com/youku/dist/img/find/header_2663bc2.png")/*tpa=http://css.ykimg.com/youku/dist/img/find/header_2663bc2.png*/ 0 -315px #2fb3ff no-repeat;
     outline: 0;
     cursor: pointer;
 	border-radius: 0px;}
